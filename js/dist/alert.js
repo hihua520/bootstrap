@@ -122,7 +122,6 @@ var Alert = function ($) {
           data = new Alert(this);
           $element.data(DATA_KEY, data);
         }
-
         if (config === 'close') {
           data[config](this);
         }
@@ -172,4 +171,4 @@ var Alert = function ($) {
 
   return Alert;
 }($);
-//# sourceMappingURL=alert.js.map 111
+//# sourceMappingURL=alert.js.map 
