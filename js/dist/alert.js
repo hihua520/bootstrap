@@ -92,7 +92,6 @@ var Alert = function ($) {
       $(element).trigger(closeEvent);
       return closeEvent;
     };
-
     _proto._removeElement = function _removeElement(element) {
       var _this = this;
 
@@ -173,4 +172,4 @@ var Alert = function ($) {
 
   return Alert;
 }($);
-//# sourceMappingURL=alert.js.map
+//# sourceMappingURL=alert.js.map 111
